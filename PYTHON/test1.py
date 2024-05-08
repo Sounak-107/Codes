@@ -1,3 +1,4 @@
+#print the even numbers in a given list
 def myfunc(*args):
     mylist=[]
     for items in args:

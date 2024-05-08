@@ -4,5 +4,6 @@ def check(n):
         return True
     else:
         return False 
+a=int(input("Enter a number: "))
     
-print(check(250))
+check(a)

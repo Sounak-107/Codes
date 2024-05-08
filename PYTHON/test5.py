@@ -12,5 +12,5 @@ def myfunc(s):
         count +=1
     return m 
 
-
-print(myfunc("sounak"))
+a=input("Enter a name or any word of your choice: ")
+print(myfunc(a))
