@@ -4,5 +4,6 @@ def times3(s):
     for i in s:
        m = m+i*3
     return m
+a=input("Enter a word of your choice: ")
 
-print(times3("hola"))
+print(times3(a))

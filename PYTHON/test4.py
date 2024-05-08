@@ -7,5 +7,6 @@ def check(m,s):
     else:
         return False
     
-    
-print(check('hello','hi'))   
+a=input("Enter the word of your choice: ")
+b=input("Enter the second word of your choice: ")   
+check(a,b)   

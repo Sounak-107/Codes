@@ -12,5 +12,6 @@ def myfunc(a,b):
         else:
             return b
 
-
-print(myfunc(9,2))
+s=input("Enter your first number: ")
+m=input("Enter your second number: ")
+print(myfunc(s,m))
